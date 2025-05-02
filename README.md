@@ -1,13 +1,6 @@
-# UndertaleModTool
+# UndertaleModTool Fork
 
-[![Underminers Discord](https://img.shields.io/discord/566861759210586112?label=Discord&logo=discord&logoColor=white)](https://discord.gg/hnyMDypMbN) [![GitHub](https://img.shields.io/github/license/UnderminersTeam/UndertaleModTool?logo=github)](https://github.com/UnderminersTeam/UndertaleModTool/blob/master/LICENSE.txt)
-
-(seeing such an amazing tool fills you with DETERMINATION.)
-
-Heya. I heard you like digging deep into GameMaker games like Undertale/Deltarune, so here's a tool just for you!
-
-![Flowey: Now YOU are the GOD of this world.](images/flowey.gif)
-
+This fork of the tool for experimentation purposes.
 
 # Downloads
 
@@ -38,12 +31,6 @@ It's worth noting that UndertaleModTool has different builds per release. The di
 * Can generate an .yydebug file for the GM:S debugger so that you can edit variables live! (see [here](https://github.com/UnderminersTeam/UndertaleModTool/wiki/Corrections-to-GameMaker-Studio-1.4-data.win-format-and-VM-bytecode,-.yydebug-format-and-debugger-instructions#yydebug-file-format))
 * Automatic file associations for all GameMaker related files. This can be disabled by having a `dna.txt` file next to the executable.
 
-# Screenshots
-
-Here are some screenshots of what UTMT can do:
-
-## [RIBBIT - The Deltarune Mod](https://gamejolt.com/games/ribbitmod/671888)
-<img src="images/ribbit-dr.png" alt="RIBBIT" width="640" height="480"/>
 
 # Included Scripts
 
